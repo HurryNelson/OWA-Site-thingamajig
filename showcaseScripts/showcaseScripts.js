@@ -1,4 +1,3 @@
-
 document.getElementById("showcasePyFighter").innerHTML = "<h1>PyFighter Showcase</h1> <br> <p1>The following will show the different basic parts of the PyFighter game in pictures, then a video explaining the project in greater detail</p1>"
 
 document.getElementById("showcasePyFighterPictures").innerHTML = "<br><img src='Picture1.png' width='286', height='331'></img><br><img src='Picture2.png' width='395' height='123'></img><br><img src='Picture3.png' width='433' height='497'></img>"
